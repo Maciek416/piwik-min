@@ -1,0 +1,17 @@
+{
+  "name": "piwik-min",
+  "version": "1.0.0",
+  "authors": [
+    "Maciej Adwent"
+  ],
+  "description": "Piwik tracker component",
+  "main": "piwik-min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
